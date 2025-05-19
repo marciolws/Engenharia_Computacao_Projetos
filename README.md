@@ -2,7 +2,6 @@
 
 Este é um aplicativo interativo desenvolvido com **Streamlit** e **Python**, que permite o **cadastro de propostas de planos de saúde**, geração de **PDFs profissionais e futuristas** com a proposta personalizada, e visualização de **rede credenciada** de cada operadora.
 
-![Interface Futurista do Sistema](interface_streamlit_futurista.png)
 
 ---
 
