@@ -31,5 +31,5 @@ Este é um aplicativo interativo desenvolvido com **Streamlit** e **Python**, qu
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/marciolws/projetoI.git
-cd projetoI
+git clone https://github.com/marciolws/cotar_plano.git
+cd cotar_plano
