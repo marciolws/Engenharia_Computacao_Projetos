@@ -27,6 +27,10 @@ Este é um aplicativo interativo desenvolvido com **Streamlit** e **Python**, qu
 
 ---
 
+## 🚀 Link do projeto streamlit
+
+https://cotarplano.streamlit.app
+
 ## 🚀 Como Executar Localmente
 
 ### 1. Clone o repositório
